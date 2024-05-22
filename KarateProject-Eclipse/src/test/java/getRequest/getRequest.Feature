@@ -1,0 +1,9 @@
+Feature: To test the get request of the appliacation
+ 
+	Background: define url
+		Given url  'https://jsonplaceholder.typicode.com/'
+	
+  Scenario: get all users
+    Given path '/user'
+    When method GET
+    Then status 200

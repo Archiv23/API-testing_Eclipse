@@ -1,0 +1,5 @@
+com\automation\KarateTest\pages\Page.class
+com\automation\KarateTest\TestNgTestBase.class
+com\automation\KarateTest\SuiteConfiguration.class
+com\automation\KarateTest\SampleTestNgTest.class
+com\automation\KarateTest\pages\HomePage.class
